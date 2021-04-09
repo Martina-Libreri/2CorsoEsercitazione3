@@ -1,0 +1,9 @@
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\bin\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.deps.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\bin\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\bin\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.pdb

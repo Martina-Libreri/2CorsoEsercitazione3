@@ -1,0 +1,15 @@
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EF.deps.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EF.runtimeconfig.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EF.runtimeconfig.dev.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\bin\Debug\netcoreapp3.1\GestioneSpese_EntitiesRepository.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.csproj.CopyComplete
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 3\Esercitazione 3\GestioneSpese\GestioneSpese_EF\obj\Debug\netcoreapp3.1\GestioneSpese_EF.genruntimeconfig.cache
